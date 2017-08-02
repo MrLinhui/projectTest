@@ -8,5 +8,4 @@ pod ‘Masonry’
 pod 'SVProgressHUD'
   # Pods for ZZQRCode
 
-
 end
